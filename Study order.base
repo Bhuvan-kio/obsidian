@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: View
+    sort:
+      - property: file.ctime
+        direction: ASC

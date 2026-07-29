@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ead815adb807cc8",
+        "id": "c791150ffab82deb",
         "type": "tabs",
         "children": [
           {
-            "id": "d96713c86340f7d8",
+            "id": "25bbd6dfaee6439c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d96713c86340f7d8",
+  "active": "25bbd6dfaee6439c",
   "lastOpenFiles": [
+    "dsa/Valid anagram.md",
     "dsa/Contains Duplicate.md",
     "dsa/Two Sum.md",
     "dsa/Binary search.md",

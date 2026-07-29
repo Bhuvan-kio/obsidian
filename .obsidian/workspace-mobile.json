@@ -11,10 +11,14 @@
             "id": "25bbd6dfaee6439c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "dsa/Group Anagrams.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Group Anagrams"
             }
           }
         ]
@@ -172,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25bbd6dfaee6439c",
+  "active": "80f0d46de6e45f5b",
   "lastOpenFiles": [
+    "dsa/Group Anagrams.md",
     "dsa/Valid anagram.md",
     "dsa/Contains Duplicate.md",
     "dsa/Two Sum.md",

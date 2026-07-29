@@ -175,9 +175,19 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "44d58ad597d4f250",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {},
+          "icon": "history",
+          "title": "History"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {

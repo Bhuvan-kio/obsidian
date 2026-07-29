@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0575afdda10bd82c",
+        "id": "bef9c232b8e98868",
         "type": "tabs",
         "children": [
           {
-            "id": "f8e8fcaf54ec897a",
+            "id": "c54ddaa698044dbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "dsa/Binary search.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Binary search"
+            }
+          },
+          {
+            "id": "78db9f6572afa3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,11 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8e8fcaf54ec897a",
+  "active": "78db9f6572afa3e0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "dsa/Binary search.md",
     "Remote trial.md",
     "Goals.md",
-    "dsa/Binary search.md",
     "dsa/Two Sum.md",
     "dsa/Search in Rotated Sorted Array.md",
     "dsa/Find Peak Element.md",

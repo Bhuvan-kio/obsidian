@@ -101,6 +101,7 @@ Else
 
 Python Code
 
+
 ```
 def isAnagram(s, t):
     if len(s) != len(t):
@@ -113,6 +114,7 @@ def isAnagram(s, t):
         countT[char] = countT.get(char, 0) + 1
     return countS == countT
 ```
+
 
 
 ---
